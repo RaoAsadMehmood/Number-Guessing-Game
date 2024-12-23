@@ -1,4 +1,4 @@
-  /* Basic reset and container styling */
+  
   body {
     font-family: Arial, sans-serif;
     display: flex;
@@ -9,7 +9,7 @@
     background-color: #f0f0f0;
 }
 
-/* Main game container */
+
 .game-container {
     background-color: white;
     padding: 2rem;
@@ -18,14 +18,14 @@
     text-align: center;
 }
 
-/* Lives display styling */
+
 #lives {
     color: red;
     font-size: 24px;
     margin: 10px 0;
 }
 
-/* Input and button styling */
+
 input {
     padding: 8px;
     margin: 10px;
@@ -48,7 +48,7 @@ button:hover {
     background-color: #45a049;
 }
 
-/* Message styling */
+
 #message {
     margin: 15px 0;
     font-size: 18px;
